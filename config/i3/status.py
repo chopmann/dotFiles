@@ -1,1 +1,0 @@
-/home/sirmonkey/.dotfiles/config/i3/status.py
